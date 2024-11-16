@@ -374,3 +374,8 @@ ytmusic
 Zabcdefghijklmnopqrstuvwxyz
 zenhei
 zenorocha
+usd
+eur
+jpy
+bitcoin
+coingecko
