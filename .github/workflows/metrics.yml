@@ -1,8 +1,8 @@
-name: Metrics
+name: Generate Metrics
 
 on:
   schedule:
-    # Runs every 6 hours
+    # This tells the robot to run every 6 hours
     - cron: "0 */6 * * *"
   workflow_dispatch:
 
@@ -26,5 +26,5 @@ jobs:
           plugin_activity: yes
           plugin_stars: yes
           plugin_lines: yes
-          plugin_followup: yes
           plugin_traffic: yes
+          output: github-metrics.svg
