@@ -44,3 +44,8 @@ xticks
 yargsparser
 yticked
 webtoken
+usd
+eur
+jpy
+bitcoin
+coingecko
