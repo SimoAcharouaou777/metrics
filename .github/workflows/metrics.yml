@@ -18,6 +18,9 @@ jobs:
         with:
           node-version: '16'
 
+      - name: Spell Check
+        uses: check-spelling/check-spelling@v0.0.21  
+
       - name: Setup Metrics
         uses: lowlighter/metrics@latest
         with:
