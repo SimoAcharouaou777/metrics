@@ -290,14 +290,14 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">SimoAcharouaou777/bankify-frontend-react</span>
+                                        <span class="repo">SimoAcharouaou777/Citronix</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
+                                    <div>on branch <span class="code">feature/CIT-1-farm-management</span></div>
                                     <div class="commit">
-                                        <div class="sha">#08eea04</div>
-                                        <div class="message">update the pages</div>
+                                        <div class="sha">#04e8089</div>
+                                        <div class="message">CIT-9 Add multi_criteria search functionaliy</div>
                                     </div>
                                 </div>
                             </section>
@@ -314,16 +314,16 @@
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
+                                    <div>on branch <span class="code">develop</span></div>
                                     <div class="commit">
-                                        <div class="sha">#01316c5</div>
-                                        <div class="message">Merge pull request #1 from SimoAcharouaou777/feature/CIT-8-farm-crud
+                                        <div class="sha">#88ef70c</div>
+                                        <div class="message">Merge pull request #2 from SimoAcharouaou777/feature/CIT-1-farm-management
 
-CIT-8: Create Farm Entity and CRUD operations</div>
+CIT-8: updated</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#e3eb57c</div>
-                                        <div class="message">CIT-8: Create Farm Entity and CRUD operations</div>
+                                        <div class="sha">#8d2bbd3</div>
+                                        <div class="message">CIT-8: updated</div>
                                     </div>
                                 </div>
                             </section>
@@ -336,12 +336,12 @@ CIT-8: Create Farm Entity and CRUD operations</div>
                                     </svg>
                                     <div class="content">
                                         Merged
-                                        <span class="issue">#1 CIT-8: Create Farm Entity and CRUD operations</span>
+                                        <span class="issue">#2 CIT-8: updated</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div> in <span class="repo">SimoAcharouaou777/Citronix</span></div>
-                                    <div>6 files changed <span class="code">++154 --0</span></div>
+                                    <div>7 files changed <span class="code">++349 --6</span></div>
                                 </div>
                             </section>
                         </div>
@@ -353,12 +353,12 @@ CIT-8: Create Farm Entity and CRUD operations</div>
                                     </svg>
                                     <div class="content">
                                         Opened
-                                        <span class="issue">#1 CIT-8: Create Farm Entity and CRUD operations</span>
+                                        <span class="issue">#2 CIT-8: updated</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div> in <span class="repo">SimoAcharouaou777/Citronix</span></div>
-                                    <div>6 files changed <span class="code">++154 --0</span></div>
+                                    <div>7 files changed <span class="code">++349 --6</span></div>
                                 </div>
                             </section>
                         </div>
@@ -371,7 +371,7 @@ CIT-8: Create Farm Entity and CRUD operations</div>
                                     <div class="content">
                                         Created new
                       branch
-                                        <span class="code">feature/CIT-8-farm-crud</span>
+                                        <span class="code">feature/CIT-1-farm-management</span>
                                         in
                                         <span class="repo">SimoAcharouaou777/Citronix</span>
                                     </div>
