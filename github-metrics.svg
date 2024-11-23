@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1228" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1178" class="">
     <defs>
         <style/>
     </defs>
@@ -289,6 +289,26 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">SimoAcharouaou777/Citronix</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">feature/CIT-4-harvest-management</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#19897e5</div>
+                                        <div class="message">CIT-18, CIT-19, CIT-21: harvest crud for each season &amp; one harvest for each season &amp; record harvest details for each tree</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
                                         Pushed 20 commits in
                                         <span class="repo">SimoAcharouaou777/Citronix</span>
                                     </div>
@@ -436,40 +456,6 @@ CIT-8: updated</div>
                                         <span class="code">feature/CIT-4-harvest-management</span>
                                         in
                                         <span class="repo">SimoAcharouaou777/Citronix</span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 4 commits in
-                                        <span class="repo">SimoAcharouaou777/Citronix</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">develop</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#9bebaeb</div>
-                                        <div class="message">Merge pull request #6 from SimoAcharouaou777/feature/CIT-3-tree-management
-
-Feature/cit 3 tree management</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#0dda78b</div>
-                                        <div class="message">validation tree updated</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a84c867</div>
-                                        <div class="message">CIT-17: validate number of trees per field based on size &amp; adding some validations to other entities</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#9bf8a5f</div>
-                                        <div class="message">CIT-14, CIT-15, CIT-16: tree curd &amp; calculate age of tee &amp; set productivity to a tree</div>
                                     </div>
                                 </div>
                             </section>
